@@ -93,4 +93,4 @@ Below are a few keys to remember when thinking about REST:
 
 * There are seven potential RESTful route options available.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-intro-to-rest'>Intro to Rest</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Intro to REST</p>
