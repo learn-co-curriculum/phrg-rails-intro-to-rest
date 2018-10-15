@@ -93,4 +93,8 @@ Below are a few keys to remember when thinking about REST:
 
 * There are seven potential RESTful route options available.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-intro-to-rest/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-intro-to-rest/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Intro to REST</p>
